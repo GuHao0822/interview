@@ -1,6 +1,3 @@
-/**
- * Alipay.com Inc. Copyright (c) 2004-2019 All Rights Reserved.
- */
 package com.guhao.interview.rpncalculator.parameter;
 
 import com.guhao.interview.rpncalculator.storager.Storager;
